@@ -1,0 +1,21 @@
+
+
+.blog{
+  display: inline-block;
+  width: 200px;
+  height: 200px
+}
+
+.images-container{
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-right: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+}
+
